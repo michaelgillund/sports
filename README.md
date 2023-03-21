@@ -10,7 +10,7 @@ This iOS app provides real-time scoring information, in-game stats, and breaking
 
 # Requirements
 - iOS 16.0 or later
-- Xcode 12.0 or later
+- Xcode 14.0 or later
 - Swift 5.0 or later
 
 # Installation
