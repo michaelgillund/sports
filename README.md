@@ -14,11 +14,6 @@ This iOS app provides real-time scoring information, in-game stats, and breaking
 - Xcode 14.0 or later
 - Swift 5.0 or later
 
-# Installation
-- Clone the repository to your local machine using git clone https://github.com/your-username/real-time-sports-app.git
-- Open the Xcode project file (Sports.xcodeproj)
-- Build and run the app in Xcode or install it on your iOS device
-
 # Usage
 - Launch the app on your iOS device
 - View real-time scores, in-game stats, and breaking news for your favorite teams
